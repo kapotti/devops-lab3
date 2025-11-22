@@ -1,3 +1,3 @@
-Imie: Jakub
+Imie: Jakubek
 Nazwisko: Jozefczyk
-Ulubiona technologia: DevOps
+Ulubiona technologia: Python
