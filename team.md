@@ -1,3 +1,3 @@
 Imie: Jakub
 Nazwisko: Jozefczyk
-Ulubiona technologia: DevOps
+Ulubiona technologia: Python
